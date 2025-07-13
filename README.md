@@ -4,7 +4,7 @@
 📍 Currently learning: React.js | Node.js | JavaScript | TypeScript | Git  
 💡 Interests: Web Development | GUI Applications | Version Control  
 📂 GitHub Projects: See pinned repos below 👇  
-📧 Contact me: nehagm.dev@gmail.com  
+📧 Contact me: nehagm77177@gmail.com  
 
 ---
 
