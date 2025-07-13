@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neha GM
 
 🎓 Electronics & Communication Engineering student  
-📍 Currently learning: React.js | Node.js | JavaScript | TypeScript | Git  
+📍 Currently learning: React.js | Node.js | JavaScript  | Git  
 💡 Interests: Web Development | GUI Applications | Version Control  
 📂 GitHub Projects: See pinned repos below 👇  
 📧 Contact me: nehagm77177@gmail.com  
