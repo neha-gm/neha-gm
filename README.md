@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha GM
 
-<!--
-**neha-gm/neha-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering student  
+📍 Currently learning: React.js | Node.js | JavaScript | TypeScript | Git  
+💡 Interests: Web Development | GUI Applications | Version Control  
+📂 GitHub Projects: See pinned repos below 👇  
+📧 Contact me: nehagm.dev@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- 🧠 Languages: JavaScript, TypeScript, Python, SQL
+- 🌐 Frontend: React.js, HTML, CSS
+- 🛠️ Backend: Node.js, Express.js
+- 🗃️ Database: MongoDB, MySQL
+- 🧰 Tools: Git, GitHub, VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha-gm&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-gm)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=neha-gm&theme=radical)
