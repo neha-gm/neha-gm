@@ -10,11 +10,10 @@
 
 ## 🔧 Technologies & Tools
 
-- 🧠 Languages: JavaScript, TypeScript, Python, SQL
+- 🧠 Languages: JavaScript, Python, SQL
 - 🌐 Frontend: React.js, HTML, CSS
-- 🛠️ Backend: Node.js, Express.js
-- 🗃️ Database: MongoDB, MySQL
-- 🧰 Tools: Git, GitHub, VS Code, Postman
+- 🗃️ Database: MySQL
+- 🧰 Tools: Git, GitHub, VS Code, 
 
 ---
 
